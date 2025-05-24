@@ -1,0 +1,14 @@
+C:\Users\jodet\PALELUNA\bin\Debug\net9.0\PALELUNA.exe
+C:\Users\jodet\PALELUNA\bin\Debug\net9.0\PALELUNA.deps.json
+C:\Users\jodet\PALELUNA\bin\Debug\net9.0\PALELUNA.runtimeconfig.json
+C:\Users\jodet\PALELUNA\bin\Debug\net9.0\PALELUNA.dll
+C:\Users\jodet\PALELUNA\bin\Debug\net9.0\PALELUNA.pdb
+C:\Users\jodet\PALELUNA\obj\Debug\net9.0\PALELUNA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jodet\PALELUNA\obj\Debug\net9.0\PALELUNA.AssemblyInfoInputs.cache
+C:\Users\jodet\PALELUNA\obj\Debug\net9.0\PALELUNA.AssemblyInfo.cs
+C:\Users\jodet\PALELUNA\obj\Debug\net9.0\PALELUNA.csproj.CoreCompileInputs.cache
+C:\Users\jodet\PALELUNA\obj\Debug\net9.0\PALELUNA.dll
+C:\Users\jodet\PALELUNA\obj\Debug\net9.0\refint\PALELUNA.dll
+C:\Users\jodet\PALELUNA\obj\Debug\net9.0\PALELUNA.pdb
+C:\Users\jodet\PALELUNA\obj\Debug\net9.0\PALELUNA.genruntimeconfig.cache
+C:\Users\jodet\PALELUNA\obj\Debug\net9.0\ref\PALELUNA.dll
